@@ -20,7 +20,7 @@ Este repositório contém projetos em Java para a prática e testes com o framew
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/rma98/java-projects-for-tsoftware.git
+   https://github.com/rma98/java-projects-for-tsoftware.git
 2. Navegue até a pasta do projeto meuProjetoTesteDeSoftware:
    ```bash
    cd java-projects-for-tsoftware/meuProjetoTesteDeSoftware
